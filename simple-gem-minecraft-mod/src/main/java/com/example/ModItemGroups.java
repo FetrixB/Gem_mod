@@ -23,6 +23,10 @@ public class ModItemGroups {
                         entries.add(ModItems.STEALTH_CRYSTAL);
                         entries.add(ModItems.WATER_CRYSTAL);
                         entries.add(ModItems.FLY_CRYSTAL);
+                        entries.add(ModItems.HELL_CRYSTAL);
+                        entries.add(ModItems.ORBITAL_STRIKE_CRYSTAL);
+                        entries.add(ModItems.STRENGTH_CRYSTAL);
+                        entries.add(ModItems.VOID_CRYSTAL);
                     })
                     .build()
     );
